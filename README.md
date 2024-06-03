@@ -23,8 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Iniciando no Desenvolvimento Android: Um Guia básico para Novos Desenvolvedores
 
 ## 📒 Descrição
-A criação desse ebook foi incentivada no desafio do bootcamp Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 da DIO, Natural ou Fake Natty? Como Vencer na Era das IAs Generativas, que tinha a proposta de usar IA para criar algum material.
-Neste material foi compilado alguns conceito introdutórios sobre o desenvolvimento Android.
+Neste material foi compilado alguns conceito introdutórios sobre o desenvolvimento Android utilizando IAs generativas.
 
 ## 🤖 Tecnologias Utilizadas
 Foram utilizadas as seguintes AI:
@@ -39,14 +38,15 @@ https://javatutorial.net/
 https://developer.android.com/get-started/overview?hl=pt-br
 
 ## 🧐 Processo de Criação
-Sendo um primeiro contato com desenvolvimento Android, iniciei questionando as IAs sobre como iniciar e quais os conceitos básicos. Partindo do exposto, fui aprofundando nos conteudos de modo a poder criar uma aplicação simples "Hello World!".
+Sendo um primeiro contato com desenvolvimento Android, iniciei questionando as IAs.
+O foco ficou em sobre como iniciar e quais os conceitos mais básicos. 
+Partindo do exposto, fui aprofundando nos conteúdos de modo a poder criar uma aplicação simples "Hello World!".
 
 ## 🚀 Resultados
-A proposta do ebook é apresentar conceitos introdutórios e permitir que o leitor consiga rodar uma aplicação "Hello World!" pelo Android Studio mesmo sem nunca ter tido contato com o desenvolvimento Android.
+Criação de um ebook que permite o leitor criar uma aplicação "Hello World!" pelo Android Studio.
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 Muitos dos inputs acabavam retornando resultados estranhos ou com adição de informações que não estavam no input.
 Deixo aqui a minha sincera admiração por quem consegue produzir imagens utilizando IAs. 
 
