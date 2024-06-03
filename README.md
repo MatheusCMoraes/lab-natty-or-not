@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Iniciando no Desenvolvimento Android: Um Guia básico para Novos Desenvolvedores
 
 ## 📒 Descrição
-Neste material foi compilado alguns conceito introdutórios sobre o desenvolvimento Android utilizando IAs generativas.
+Neste material foi compilado alguns conceitos introdutórios sobre o desenvolvimento Android utilizando IAs generativas.
 
 ## 🤖 Tecnologias Utilizadas
 Foram utilizadas as seguintes AI:
